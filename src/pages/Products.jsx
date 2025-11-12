@@ -28,7 +28,7 @@ import nikolas from "../assets/nikolas.png";
 import Electricals from "../assets/E1.png";
 import Doors from "../assets/Doors.png";
 import Plumbing from "../assets/P1.png";
-import Sanitary from "../assets/s1.png";
+import Sanitary from "../assets/S1.png";
 import Appliance from "../assets/A1.png";
 import { link } from 'framer-motion/client';
 
