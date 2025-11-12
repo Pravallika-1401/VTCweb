@@ -244,7 +244,7 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
  
 import CEO from "../../assets/Vtcsir.png";
-import Office from "../../assets/vtcof2.png";
+import Office from "../../assets/Vtcof2.png";
  
 const slides = [
   { id: 1, image: CEO },
