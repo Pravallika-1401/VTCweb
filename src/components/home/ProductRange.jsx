@@ -476,8 +476,9 @@ import { createPageUrl } from '../../utils';
 import Electricals from "../../assets/E1.png";
 import Doors from "../../assets/Doors.png";
 import Plumbing from "../../assets/P1.png";
-import Sanitary from "../../assets/s1.png";
+// import Sanitary from "../../assets/s1.png";
 import Appliance from "../../assets/A1.png";
+import Sanitary from "../../assets/v3.jpg";
 
 const categories = [
   {
